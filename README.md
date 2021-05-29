@@ -1,0 +1,2 @@
+# slovnik
+Škola - Slovník
